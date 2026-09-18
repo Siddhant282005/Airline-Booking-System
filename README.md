@@ -255,8 +255,9 @@ Use the included Postman collection:
 
 ## Authors
 
+**Siddhant Payal**
 **Susparsh Jakhmola**
 **Suryansh Chandrakar**
-**Siddhant Payal**
+
 
 ---
